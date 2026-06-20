@@ -38,7 +38,7 @@ Hello GitHub Actions
 -  Improved software delivery process
 
 ## 📸 Project Result
-✅ Workflow Executed Successfully  
-✅ Build Passed  
-✅ Python Script Executed Automatically  
-🎉 CI Pipeline Working Correctly
+ - Workflow Executed Successfully  
+ - Build Passed  
+ - Python Script Executed Automatically  
+ - CI Pipeline Working Correctly
